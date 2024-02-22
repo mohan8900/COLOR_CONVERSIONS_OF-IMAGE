@@ -48,7 +48,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- ![out 1](https://github.com/AbishekAnand15/COLOR_CONVERSIONS_OF-IMAGE/assets/118706942/81c894f1-f34f-47a3-9597-ce777430fc23)
+ ![out 1](https://github.com/mohan8900/COLOR_CONVERSIONS_OF-IMAGE/blob/main/304783896-81c894f1-f34f-47a3-9597-ce777430fc23.png)
 
   </td>
   </tr>
